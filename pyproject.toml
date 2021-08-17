@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "repl_python3_Prime-Bot"
+name = "perm_security"
 version = "0.1.0"
 description = "A package to bridge the gap between Discord's API and Perm-Banana"
 authors = ["TheJoeSmo <joesmo.joesmo12@gmail.com>"]
