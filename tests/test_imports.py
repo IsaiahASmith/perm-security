@@ -10,6 +10,12 @@ def test_main():
     assert callable(validate)
 
 
+def test_converters():
+    from perm_security.converters import PermissionChannelConverter
+
+    assert isinstance(PermissionChannelConverter, type)
+
+
 def test_member_adapter():
     from perm_security.MemberAdapter import MemberAdapter, MemberChannelAdapter, MemberGuildAdapter
 
