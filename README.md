@@ -4,10 +4,10 @@
 #### A package to enable the integration between Discord's API and Perm-Banana
 
 #### Features
-- [x] Permission classes for converting Discord's Permissions to Perm-Banana
-- [x] Member Adapters to enable Perm-Banana's extended functionality
-- [x] The ability to create Tokens
-- [x] A TokenStrategy for handling Permissions with Discord's API
+- Permission classes for converting Discord's Permissions to Perm-Banana
+- Member Adapters to enable Perm-Banana's extended functionality
+- The ability to create Tokens
+- A TokenStrategy for handling Permissions with Discord's API
 
 #### How to use it?
 
