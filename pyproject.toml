@@ -1,8 +1,16 @@
 [tool.poetry]
 name = "repl_python3_Prime-Bot"
 version = "0.1.0"
-description = ""
+description = "A package to bridge the gap between Discord's API and Perm-Banana"
 authors = ["TheJoeSmo <joesmo.joesmo12@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/TheJoeSmo/perm-security"
+repository = "https://github.com/TheJoeSmo/perm-security"
+keywords = ["discord", "perm-banana", "token"]
+include = [
+    "LICENSE",
+]
 
 [tool.poetry.dependencies]
 python = "^3.9"
